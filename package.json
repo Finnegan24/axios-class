@@ -1,0 +1,27 @@
+{
+  "name": "axios-class",
+  "version": "1.0.4",
+  "description": "new http request with axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0930-online/axios-class.git"
+  },
+  "keywords": [
+    "axios",
+    "http",
+    "request",
+    "class",
+    "typescript"
+  ],
+  "author": "lvzhen",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/0930-online/axios-class/issues"
+  },
+  "homepage": "https://github.com/0930-online/axios-class#readme"
+}
